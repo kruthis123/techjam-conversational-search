@@ -2,6 +2,17 @@
 
 Build an AI shopping agent that asks useful follow-up questions and recommends the customer's hidden target product within at most 10 turns.
 
+## Learning-First Rebuild
+
+This branch includes a Codex harness that keeps learning, user-authored architecture, implementation, and verification in separate phases. Start with:
+
+1. `docs/PROJECT_STATE.md` for the active phase.
+2. `docs/PROBLEM_MAP.md` for the small learning sequence.
+3. `docs/WORKFLOW.md` for copy-ready Codex prompts.
+4. `docs/learning/LC-00-evaluation-contract.md` for the first exercise.
+
+Codex automatically reads `AGENTS.md`. Project-scoped custom agents live in `.codex/agents/` and load when the repository is trusted and a new Codex task starts.
+
 ## What You Receive
 
 - A frozen catalog of 50,000 products from the `Clothing_Shoes_and_Jewelry` category of Amazon Reviews 2023.
