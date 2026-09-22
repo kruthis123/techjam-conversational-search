@@ -7,13 +7,13 @@ This file is the phase gate for Codex and the shared progress index.
 - Architecture status: `SYNTHESIZED` — architecture critique complete; blocking clarifications resolved
 - Active system-design area: `SD-12` — Synthesized; critique resolutions recorded
 - Active design record: `SDR-012` — Synthesized
-- Active implementation ADRs: `ADR-002`, `ADR-003`, `ADR-004`, `ADR-005` — Accepted; M1 experiment choices recorded
-- Active implementation task: `None` — M1 complete; M2 not authorized
-- Last verified implementation task: `TASK-003`
+- Active implementation ADRs: `ADR-006` — Accepted under M2 authorization
+- Active implementation task: `None` — M2 complete; M3 not authorized
+- Last verified implementation task: `TASK-006`
 - Implementation roadmap: `Approved` by the user on `2026-09-17`
-- Active implementation milestone: `M2` — Awaiting user authorization
-- Next planning item: `When requested, prepare and implement the simplest deterministic intent and session-state baseline for M2`
-- Latest project update: `M1 completed under the user-approved price-and-category learning scope; milestone changes are being committed and pushed (2026-09-21)`
+- Active implementation milestone: `M3` — Awaiting user authorization
+- Next planning item: `When requested, prepare and implement the simplest retrieval baselines for M3`
+- Latest project update: `M2 completed with one active claim per attribute, attribute-specific override, and 32 passing tests; milestone changes are being committed and pushed (2026-09-22)`
 
 ## Learning progress
 

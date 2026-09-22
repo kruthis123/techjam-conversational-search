@@ -4,7 +4,7 @@
 - Date: `2026-09-17`
 - Approved by user: `2026-09-17`
 - Source architecture: `SDR-001` through `SDR-012`
-- Current phase: `VERIFYING`
+- Current phase: `IMPLEMENTING`
 
 ## Purpose
 
@@ -167,6 +167,8 @@ Inspect fixed numeric, null, string-price, and repeated-category records. Decide
 
 ## M2 — Deterministic intent and conversational state
 
+- Status: `Complete — 2026-09-22`
+
 ### Outcome
 
 Simulator messages become grounded claims; raw turn history, structured `ask_attribute` links, and current active intent evolve correctly across additions, indifference, replacement, override, and reset.
@@ -200,6 +202,16 @@ Paper and automated traces for a bare-value reply, no-preference reply, override
 - The fixed simulator-template suite passes.
 - Current intent contains no superseded influence.
 - Question-reply continuity and reset isolation have evidence.
+
+### Completion evidence
+
+- `TASK-004`, `TASK-005`, and experiment-driven correction `TASK-006` are verified.
+- The repository suite passes 32 tests.
+- Known simulator templates produce observed claims; unknown unlinked messages remain unresolved without changing active intent.
+- Active intent contains at most one claim per attribute.
+- Indifference and override replace only their matching attribute.
+- Raw turn history, question-reply linkage, unresolved-turn history, and reset isolation have focused test evidence.
+- On `2026-09-22`, the user retained preferred attribute replies and selected the final indifference, override, and unresolved-turn behavior.
 
 ## M3 — Baseline catalog representations and retrieval routes
 
