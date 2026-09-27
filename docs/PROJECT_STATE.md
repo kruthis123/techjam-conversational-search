@@ -7,13 +7,13 @@ This file is the phase gate for Codex and the shared progress index.
 - Architecture status: `SYNTHESIZED` — architecture critique complete; blocking clarifications resolved
 - Active system-design area: `SD-12` — Synthesized; critique resolutions recorded
 - Active design record: `SDR-012` — Synthesized
-- Active implementation ADRs: `ADR-006` — Accepted under M2 authorization
-- Active implementation task: `None` — M2 complete; M3 not authorized
-- Last verified implementation task: `TASK-006`
+- Active implementation ADRs: `ADR-007`, `ADR-009` — Accepted under M3 authorization
+- Active implementation task: `None` — M3 complete
+- Last verified implementation task: `TASK-018`
 - Implementation roadmap: `Approved` by the user on `2026-09-17`
-- Active implementation milestone: `M3` — Awaiting user authorization
-- Next planning item: `When requested, prepare and implement the simplest retrieval baselines for M3`
-- Latest project update: `M2 completed with one active claim per attribute, attribute-specific override, and 32 passing tests; milestone changes are being committed and pushed (2026-09-22)`
+- Active implementation milestone: `M3` — Complete
+- Next planning item: `Await user instruction before preparing M4 fusion and eligibility work`
+- Latest project update: `M3 completed with provisional BM25/facet/SVD-256 routes, first-turn holdout deferred until dialogue integration, and the complete repository suite passing 70/70 tests; changes are ready to publish (2026-09-27)`
 
 ## Learning progress
 

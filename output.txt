@@ -1,0 +1,2513 @@
+{
+  "route": "dense",
+  "target_parent_asin": "B0BPCC1KBT",
+  "query": "Bras Everyday Bras nylon",
+  "results": [
+    {
+      "depth": 500,
+      "target_rank": 316,
+      "hits": [
+        {
+          "parent_asin": "B07XBZJCNK",
+          "rank": 1,
+          "score": 0.9318489687163682
+        },
+        {
+          "parent_asin": "B07ST2MMYX",
+          "rank": 2,
+          "score": 0.9248635582436359
+        },
+        {
+          "parent_asin": "B07PNVKM8M",
+          "rank": 3,
+          "score": 0.9177486906346701
+        },
+        {
+          "parent_asin": "B008D08VSW",
+          "rank": 4,
+          "score": 0.9139990699917511
+        },
+        {
+          "parent_asin": "B07H2JJC6L",
+          "rank": 5,
+          "score": 0.9079302928829386
+        },
+        {
+          "parent_asin": "B09QXHD7KF",
+          "rank": 6,
+          "score": 0.9036650745412667
+        },
+        {
+          "parent_asin": "B08BFSRWC6",
+          "rank": 7,
+          "score": 0.8991422983018132
+        },
+        {
+          "parent_asin": "B01G5ZMUG0",
+          "rank": 8,
+          "score": 0.8986841308590837
+        },
+        {
+          "parent_asin": "B07T8CF4GW",
+          "rank": 9,
+          "score": 0.8964526328623303
+        },
+        {
+          "parent_asin": "B07MXJCGF6",
+          "rank": 10,
+          "score": 0.8952169824470739
+        },
+        {
+          "parent_asin": "B00CFN6I9M",
+          "rank": 11,
+          "score": 0.8927021774729983
+        },
+        {
+          "parent_asin": "B09B3BK1PD",
+          "rank": 12,
+          "score": 0.8916821229244509
+        },
+        {
+          "parent_asin": "B09TQFV6DW",
+          "rank": 13,
+          "score": 0.8870458754644576
+        },
+        {
+          "parent_asin": "B07WFKFVRQ",
+          "rank": 14,
+          "score": 0.8860236024581079
+        },
+        {
+          "parent_asin": "B092H5CCL1",
+          "rank": 15,
+          "score": 0.8840561749309023
+        },
+        {
+          "parent_asin": "B0788MH5VJ",
+          "rank": 16,
+          "score": 0.8834749597931193
+        },
+        {
+          "parent_asin": "B076ZS5CPY",
+          "rank": 17,
+          "score": 0.8832884564064265
+        },
+        {
+          "parent_asin": "B07MW4JZ5V",
+          "rank": 18,
+          "score": 0.8831839373761284
+        },
+        {
+          "parent_asin": "B08HS9TF9W",
+          "rank": 19,
+          "score": 0.8830269297517926
+        },
+        {
+          "parent_asin": "B00369ZRAU",
+          "rank": 20,
+          "score": 0.882771293259456
+        },
+        {
+          "parent_asin": "B01KKIV8RA",
+          "rank": 21,
+          "score": 0.8824766618098968
+        },
+        {
+          "parent_asin": "B00XNC5TU8",
+          "rank": 22,
+          "score": 0.8824058316594914
+        },
+        {
+          "parent_asin": "B07RKP5S65",
+          "rank": 23,
+          "score": 0.8821621224525489
+        },
+        {
+          "parent_asin": "B0032FP0IW",
+          "rank": 24,
+          "score": 0.8814464304672907
+        },
+        {
+          "parent_asin": "B083JNXSHJ",
+          "rank": 25,
+          "score": 0.8813202727773921
+        },
+        {
+          "parent_asin": "B08ZKFD4GM",
+          "rank": 26,
+          "score": 0.8813172539655996
+        },
+        {
+          "parent_asin": "B07R3YS1TV",
+          "rank": 27,
+          "score": 0.8812388651901326
+        },
+        {
+          "parent_asin": "B085Q6XFMD",
+          "rank": 28,
+          "score": 0.8795934685766645
+        },
+        {
+          "parent_asin": "B0C851SF91",
+          "rank": 29,
+          "score": 0.8791755405080253
+        },
+        {
+          "parent_asin": "B06XJ1FCVR",
+          "rank": 30,
+          "score": 0.8755192821839121
+        },
+        {
+          "parent_asin": "B07F22ZZDG",
+          "rank": 31,
+          "score": 0.8750971288311236
+        },
+        {
+          "parent_asin": "B086X5F41G",
+          "rank": 32,
+          "score": 0.8746858303713421
+        },
+        {
+          "parent_asin": "B01BGZ9SBY",
+          "rank": 33,
+          "score": 0.8734236664838648
+        },
+        {
+          "parent_asin": "B07CXBMP7Y",
+          "rank": 34,
+          "score": 0.8733631448684294
+        },
+        {
+          "parent_asin": "B086SX7482",
+          "rank": 35,
+          "score": 0.8727191627924377
+        },
+        {
+          "parent_asin": "B07PWZXZVX",
+          "rank": 36,
+          "score": 0.8717883023127224
+        },
+        {
+          "parent_asin": "B01LW31VV5",
+          "rank": 37,
+          "score": 0.8708264956889116
+        },
+        {
+          "parent_asin": "B000MXB6NA",
+          "rank": 38,
+          "score": 0.869481792509828
+        },
+        {
+          "parent_asin": "B074VTHG8P",
+          "rank": 39,
+          "score": 0.8685960351817408
+        },
+        {
+          "parent_asin": "B078VPHDF3",
+          "rank": 40,
+          "score": 0.8685593794243456
+        },
+        {
+          "parent_asin": "B01MZ05Q4W",
+          "rank": 41,
+          "score": 0.868535540216606
+        },
+        {
+          "parent_asin": "B07YZ5J59Y",
+          "rank": 42,
+          "score": 0.8679321774831552
+        },
+        {
+          "parent_asin": "B08P14CYYC",
+          "rank": 43,
+          "score": 0.8678899568594007
+        },
+        {
+          "parent_asin": "B07GHXWM7P",
+          "rank": 44,
+          "score": 0.8661959431619619
+        },
+        {
+          "parent_asin": "B0C4MSXF1V",
+          "rank": 45,
+          "score": 0.8648559204830555
+        },
+        {
+          "parent_asin": "B085C27CFX",
+          "rank": 46,
+          "score": 0.8647297215963613
+        },
+        {
+          "parent_asin": "B001RGAUH4",
+          "rank": 47,
+          "score": 0.864703398597445
+        },
+        {
+          "parent_asin": "B086SWP4GD",
+          "rank": 48,
+          "score": 0.8645320081245995
+        },
+        {
+          "parent_asin": "B07B8NX7JX",
+          "rank": 49,
+          "score": 0.8639811518467886
+        },
+        {
+          "parent_asin": "B000ATKB3C",
+          "rank": 50,
+          "score": 0.8637747097683545
+        },
+        {
+          "parent_asin": "B084JG8PK9",
+          "rank": 51,
+          "score": 0.8633758945353849
+        },
+        {
+          "parent_asin": "B07XKXW75H",
+          "rank": 52,
+          "score": 0.8632686743623668
+        },
+        {
+          "parent_asin": "B07MYZ5R9M",
+          "rank": 53,
+          "score": 0.8632133259507137
+        },
+        {
+          "parent_asin": "B00RCYWBYU",
+          "rank": 54,
+          "score": 0.8629288143865741
+        },
+        {
+          "parent_asin": "B075CGGCHK",
+          "rank": 55,
+          "score": 0.8609829099306869
+        },
+        {
+          "parent_asin": "B07SK6WGBL",
+          "rank": 56,
+          "score": 0.8598802341010683
+        },
+        {
+          "parent_asin": "B07SG2QYLS",
+          "rank": 57,
+          "score": 0.8592600656381753
+        },
+        {
+          "parent_asin": "B08MT19JM3",
+          "rank": 58,
+          "score": 0.8582653473897923
+        },
+        {
+          "parent_asin": "B01N6ZGDQ5",
+          "rank": 59,
+          "score": 0.8578541719831634
+        },
+        {
+          "parent_asin": "B0009K21I0",
+          "rank": 60,
+          "score": 0.8576536860091772
+        },
+        {
+          "parent_asin": "B07BKLVP3T",
+          "rank": 61,
+          "score": 0.8572206665169653
+        },
+        {
+          "parent_asin": "B0053X4ZYQ",
+          "rank": 62,
+          "score": 0.8568323125706552
+        },
+        {
+          "parent_asin": "B07B4VZ9DV",
+          "rank": 63,
+          "score": 0.8566401947595197
+        },
+        {
+          "parent_asin": "B088WS4J57",
+          "rank": 64,
+          "score": 0.8563533030137032
+        },
+        {
+          "parent_asin": "B09TR7BMGZ",
+          "rank": 65,
+          "score": 0.8562889375475089
+        },
+        {
+          "parent_asin": "B07FXB1YNW",
+          "rank": 66,
+          "score": 0.8555886231211182
+        },
+        {
+          "parent_asin": "B07TTZ979Z",
+          "rank": 67,
+          "score": 0.8539529284775124
+        },
+        {
+          "parent_asin": "B08YYKH2DF",
+          "rank": 68,
+          "score": 0.8525888487007027
+        },
+        {
+          "parent_asin": "B00BGCNWTW",
+          "rank": 69,
+          "score": 0.8521195409622316
+        },
+        {
+          "parent_asin": "B07VZ1D6P4",
+          "rank": 70,
+          "score": 0.8520634853989885
+        },
+        {
+          "parent_asin": "B076HLSZND",
+          "rank": 71,
+          "score": 0.851628384281289
+        },
+        {
+          "parent_asin": "B00ATUYOCQ",
+          "rank": 72,
+          "score": 0.851496824233342
+        },
+        {
+          "parent_asin": "B0094DFXRE",
+          "rank": 73,
+          "score": 0.8510361089174872
+        },
+        {
+          "parent_asin": "B0919SQ8WB",
+          "rank": 74,
+          "score": 0.8499691549016002
+        },
+        {
+          "parent_asin": "B089W2LQ3W",
+          "rank": 75,
+          "score": 0.8499424676161237
+        },
+        {
+          "parent_asin": "B094Y1NS41",
+          "rank": 76,
+          "score": 0.8490722666166526
+        },
+        {
+          "parent_asin": "B071R1YM3N",
+          "rank": 77,
+          "score": 0.8483220778474578
+        },
+        {
+          "parent_asin": "B082XB5M6D",
+          "rank": 78,
+          "score": 0.8482372901844326
+        },
+        {
+          "parent_asin": "B07B9V8ZSG",
+          "rank": 79,
+          "score": 0.8480810713885311
+        },
+        {
+          "parent_asin": "B00UPU7CC4",
+          "rank": 80,
+          "score": 0.8479096940734276
+        },
+        {
+          "parent_asin": "B00YN0BJ3U",
+          "rank": 81,
+          "score": 0.8471937016459342
+        },
+        {
+          "parent_asin": "B074BC4Y2M",
+          "rank": 82,
+          "score": 0.8457474404233267
+        },
+        {
+          "parent_asin": "B07R72X8TD",
+          "rank": 83,
+          "score": 0.8451940844967878
+        },
+        {
+          "parent_asin": "B08CXV2JLG",
+          "rank": 84,
+          "score": 0.8450959251401773
+        },
+        {
+          "parent_asin": "B012DAWMAK",
+          "rank": 85,
+          "score": 0.8441863497667
+        },
+        {
+          "parent_asin": "B07PMX3R6Y",
+          "rank": 86,
+          "score": 0.8421947566666583
+        },
+        {
+          "parent_asin": "B0BBB4DDQ9",
+          "rank": 87,
+          "score": 0.8418466271861962
+        },
+        {
+          "parent_asin": "B07H4N7BT9",
+          "rank": 88,
+          "score": 0.8401011082171529
+        },
+        {
+          "parent_asin": "B01MUZ2UM8",
+          "rank": 89,
+          "score": 0.8394360606714211
+        },
+        {
+          "parent_asin": "B074SK7TCP",
+          "rank": 90,
+          "score": 0.8379152878513296
+        },
+        {
+          "parent_asin": "B099KMQB97",
+          "rank": 91,
+          "score": 0.8376803890880102
+        },
+        {
+          "parent_asin": "B07W37H54W",
+          "rank": 92,
+          "score": 0.8376709746831763
+        },
+        {
+          "parent_asin": "B08P3JZR1R",
+          "rank": 93,
+          "score": 0.8369466939437789
+        },
+        {
+          "parent_asin": "B081WX2TQR",
+          "rank": 94,
+          "score": 0.8367576494159035
+        },
+        {
+          "parent_asin": "B07MM99Y4L",
+          "rank": 95,
+          "score": 0.8359958640457187
+        },
+        {
+          "parent_asin": "B0146Q9IN8",
+          "rank": 96,
+          "score": 0.8357548008748694
+        },
+        {
+          "parent_asin": "B09VRS7ZDV",
+          "rank": 97,
+          "score": 0.8351458661706577
+        },
+        {
+          "parent_asin": "B00MJ7O6MU",
+          "rank": 98,
+          "score": 0.833202849526552
+        },
+        {
+          "parent_asin": "B005MPHN1C",
+          "rank": 99,
+          "score": 0.8331292460308439
+        },
+        {
+          "parent_asin": "B00M7VKYJC",
+          "rank": 100,
+          "score": 0.832340345805611
+        },
+        {
+          "parent_asin": "B09B1RHH8F",
+          "rank": 101,
+          "score": 0.8321010123933169
+        },
+        {
+          "parent_asin": "B01M4L5MKD",
+          "rank": 102,
+          "score": 0.8318453273682341
+        },
+        {
+          "parent_asin": "B00D8W10RY",
+          "rank": 103,
+          "score": 0.8318171711903697
+        },
+        {
+          "parent_asin": "B08ML8YGDZ",
+          "rank": 104,
+          "score": 0.8316694527567787
+        },
+        {
+          "parent_asin": "B06XFDMW8F",
+          "rank": 105,
+          "score": 0.8312574070253024
+        },
+        {
+          "parent_asin": "B06XFJNY81",
+          "rank": 106,
+          "score": 0.8312574070253024
+        },
+        {
+          "parent_asin": "B001RCUVO0",
+          "rank": 107,
+          "score": 0.8305319630339384
+        },
+        {
+          "parent_asin": "B08577HR8K",
+          "rank": 108,
+          "score": 0.8299401918816678
+        },
+        {
+          "parent_asin": "B0841FNXXV",
+          "rank": 109,
+          "score": 0.8296362506262676
+        },
+        {
+          "parent_asin": "B001AP1QG6",
+          "rank": 110,
+          "score": 0.8285540441305853
+        },
+        {
+          "parent_asin": "B0722X25HJ",
+          "rank": 111,
+          "score": 0.8283400727634508
+        },
+        {
+          "parent_asin": "B092QS82QZ",
+          "rank": 112,
+          "score": 0.8270873845532163
+        },
+        {
+          "parent_asin": "B001J6ONWA",
+          "rank": 113,
+          "score": 0.8261072212698801
+        },
+        {
+          "parent_asin": "B00KYSBF2U",
+          "rank": 114,
+          "score": 0.8258218213358766
+        },
+        {
+          "parent_asin": "B00XB25EDM",
+          "rank": 115,
+          "score": 0.8250224484644992
+        },
+        {
+          "parent_asin": "B09726G8B2",
+          "rank": 116,
+          "score": 0.8238373462265622
+        },
+        {
+          "parent_asin": "B00OPHVPQM",
+          "rank": 117,
+          "score": 0.8235828092272436
+        },
+        {
+          "parent_asin": "B007WBJGO6",
+          "rank": 118,
+          "score": 0.8228390359288686
+        },
+        {
+          "parent_asin": "B08HHJRN77",
+          "rank": 119,
+          "score": 0.8217597549352166
+        },
+        {
+          "parent_asin": "B0B1DYKTR4",
+          "rank": 120,
+          "score": 0.8214720043663915
+        },
+        {
+          "parent_asin": "B07ZS8BHR3",
+          "rank": 121,
+          "score": 0.8211401753362096
+        },
+        {
+          "parent_asin": "B07Z88YN5Q",
+          "rank": 122,
+          "score": 0.8209217908569488
+        },
+        {
+          "parent_asin": "B0812LXC15",
+          "rank": 123,
+          "score": 0.8208771714269804
+        },
+        {
+          "parent_asin": "B00843EAHY",
+          "rank": 124,
+          "score": 0.8207975543162404
+        },
+        {
+          "parent_asin": "B07DVZ3YC9",
+          "rank": 125,
+          "score": 0.8207832826772501
+        },
+        {
+          "parent_asin": "B004RCNOA0",
+          "rank": 126,
+          "score": 0.8202096417632229
+        },
+        {
+          "parent_asin": "B087BK77JL",
+          "rank": 127,
+          "score": 0.820161794943389
+        },
+        {
+          "parent_asin": "B07BTH18CD",
+          "rank": 128,
+          "score": 0.8197297550097101
+        },
+        {
+          "parent_asin": "B071ZJHKPC",
+          "rank": 129,
+          "score": 0.8194826470868137
+        },
+        {
+          "parent_asin": "B00FGD2WWU",
+          "rank": 130,
+          "score": 0.8193252438006284
+        },
+        {
+          "parent_asin": "B000VK41LI",
+          "rank": 131,
+          "score": 0.8193095830305245
+        },
+        {
+          "parent_asin": "B00H6BVU50",
+          "rank": 132,
+          "score": 0.8186110191838656
+        },
+        {
+          "parent_asin": "B0762GHFTC",
+          "rank": 133,
+          "score": 0.8183326289966081
+        },
+        {
+          "parent_asin": "B0844KZVLT",
+          "rank": 134,
+          "score": 0.8182711368320863
+        },
+        {
+          "parent_asin": "B01DTD0BXU",
+          "rank": 135,
+          "score": 0.8179340119622307
+        },
+        {
+          "parent_asin": "B0035WTMHM",
+          "rank": 136,
+          "score": 0.8174038397673329
+        },
+        {
+          "parent_asin": "B07B6G8MVJ",
+          "rank": 137,
+          "score": 0.8173154109891889
+        },
+        {
+          "parent_asin": "B017QZU3KI",
+          "rank": 138,
+          "score": 0.8172399344433615
+        },
+        {
+          "parent_asin": "B081NMDWVV",
+          "rank": 139,
+          "score": 0.8172172765258379
+        },
+        {
+          "parent_asin": "B07DXQRHLN",
+          "rank": 140,
+          "score": 0.8170438253555423
+        },
+        {
+          "parent_asin": "B01C4FACDS",
+          "rank": 141,
+          "score": 0.816349834314294
+        },
+        {
+          "parent_asin": "B07RGPSYWR",
+          "rank": 142,
+          "score": 0.8162792166389843
+        },
+        {
+          "parent_asin": "B00LT925KY",
+          "rank": 143,
+          "score": 0.815813723916636
+        },
+        {
+          "parent_asin": "B07VC3VR86",
+          "rank": 144,
+          "score": 0.8148265717897665
+        },
+        {
+          "parent_asin": "B081YT6R4K",
+          "rank": 145,
+          "score": 0.8147311906140604
+        },
+        {
+          "parent_asin": "B08X44FP5L",
+          "rank": 146,
+          "score": 0.8142456890253129
+        },
+        {
+          "parent_asin": "B01N6WN4A8",
+          "rank": 147,
+          "score": 0.8133571206508028
+        },
+        {
+          "parent_asin": "B015OBNK3S",
+          "rank": 148,
+          "score": 0.81304371463563
+        },
+        {
+          "parent_asin": "B07QFVS751",
+          "rank": 149,
+          "score": 0.8123460987531135
+        },
+        {
+          "parent_asin": "B07192QBR4",
+          "rank": 150,
+          "score": 0.8121795546480715
+        },
+        {
+          "parent_asin": "B09FYWDYMR",
+          "rank": 151,
+          "score": 0.8105736659053
+        },
+        {
+          "parent_asin": "B07V36RVTW",
+          "rank": 152,
+          "score": 0.8101249557569014
+        },
+        {
+          "parent_asin": "B005X13L1G",
+          "rank": 153,
+          "score": 0.8098620157246939
+        },
+        {
+          "parent_asin": "B000FB236I",
+          "rank": 154,
+          "score": 0.8092265006180932
+        },
+        {
+          "parent_asin": "B01N03IVYD",
+          "rank": 155,
+          "score": 0.8075543981757106
+        },
+        {
+          "parent_asin": "B00CYNKSTE",
+          "rank": 156,
+          "score": 0.8068080355535738
+        },
+        {
+          "parent_asin": "B07XMPQ2LN",
+          "rank": 157,
+          "score": 0.8066100863443743
+        },
+        {
+          "parent_asin": "B01IPALYC4",
+          "rank": 158,
+          "score": 0.8065550896091163
+        },
+        {
+          "parent_asin": "B00L4XWG36",
+          "rank": 159,
+          "score": 0.8051425936900227
+        },
+        {
+          "parent_asin": "B00UAAEAM4",
+          "rank": 160,
+          "score": 0.8050862155806647
+        },
+        {
+          "parent_asin": "B0B2K43HHV",
+          "rank": 161,
+          "score": 0.8045595942331906
+        },
+        {
+          "parent_asin": "B071992SMQ",
+          "rank": 162,
+          "score": 0.8043696220293552
+        },
+        {
+          "parent_asin": "B00B2PN7MK",
+          "rank": 163,
+          "score": 0.8043207206290759
+        },
+        {
+          "parent_asin": "B07F7485QV",
+          "rank": 164,
+          "score": 0.8042952827143764
+        },
+        {
+          "parent_asin": "B00K0DYE8G",
+          "rank": 165,
+          "score": 0.8037893820265539
+        },
+        {
+          "parent_asin": "B01MU7SF2F",
+          "rank": 166,
+          "score": 0.8032493415522
+        },
+        {
+          "parent_asin": "B07HB978LT",
+          "rank": 167,
+          "score": 0.8027555798933799
+        },
+        {
+          "parent_asin": "B098JDBZJQ",
+          "rank": 168,
+          "score": 0.8026509849167456
+        },
+        {
+          "parent_asin": "B0CDYWNS63",
+          "rank": 169,
+          "score": 0.8026020101823594
+        },
+        {
+          "parent_asin": "B08HDGRVQN",
+          "rank": 170,
+          "score": 0.8022074304162216
+        },
+        {
+          "parent_asin": "B01CNE24VS",
+          "rank": 171,
+          "score": 0.8019861613500265
+        },
+        {
+          "parent_asin": "B00HVVM2Q6",
+          "rank": 172,
+          "score": 0.8013581805904892
+        },
+        {
+          "parent_asin": "B095LJ53TW",
+          "rank": 173,
+          "score": 0.801192545126062
+        },
+        {
+          "parent_asin": "B095LJX1MM",
+          "rank": 174,
+          "score": 0.801192545126062
+        },
+        {
+          "parent_asin": "B00O4CS976",
+          "rank": 175,
+          "score": 0.8005586497459474
+        },
+        {
+          "parent_asin": "B08989M6GK",
+          "rank": 176,
+          "score": 0.7998641860434552
+        },
+        {
+          "parent_asin": "B01M252VTU",
+          "rank": 177,
+          "score": 0.7990953089348183
+        },
+        {
+          "parent_asin": "B06ZYQQVFK",
+          "rank": 178,
+          "score": 0.7989700204916754
+        },
+        {
+          "parent_asin": "B00UN3BXW8",
+          "rank": 179,
+          "score": 0.7987847279165503
+        },
+        {
+          "parent_asin": "B01LF7UCV8",
+          "rank": 180,
+          "score": 0.7986349914250799
+        },
+        {
+          "parent_asin": "B01875RFFM",
+          "rank": 181,
+          "score": 0.7964109149951849
+        },
+        {
+          "parent_asin": "B071G2K54K",
+          "rank": 182,
+          "score": 0.7961487425577758
+        },
+        {
+          "parent_asin": "B08VJ1CLP9",
+          "rank": 183,
+          "score": 0.7948946921333236
+        },
+        {
+          "parent_asin": "B013NP2HFE",
+          "rank": 184,
+          "score": 0.794564438270901
+        },
+        {
+          "parent_asin": "B07CPRQPYH",
+          "rank": 185,
+          "score": 0.7940631365784522
+        },
+        {
+          "parent_asin": "B001AP5AFY",
+          "rank": 186,
+          "score": 0.7934430659315496
+        },
+        {
+          "parent_asin": "B09M3V6C58",
+          "rank": 187,
+          "score": 0.7934228386274301
+        },
+        {
+          "parent_asin": "B00LSGCXZA",
+          "rank": 188,
+          "score": 0.7932399048101315
+        },
+        {
+          "parent_asin": "B01JWXXSX6",
+          "rank": 189,
+          "score": 0.7932191839117642
+        },
+        {
+          "parent_asin": "B09FT7XZSV",
+          "rank": 190,
+          "score": 0.792416562678177
+        },
+        {
+          "parent_asin": "B08614HJVT",
+          "rank": 191,
+          "score": 0.7921394221389604
+        },
+        {
+          "parent_asin": "B00369HX7U",
+          "rank": 192,
+          "score": 0.7919565933727493
+        },
+        {
+          "parent_asin": "B01CGQRHE2",
+          "rank": 193,
+          "score": 0.7913426812830029
+        },
+        {
+          "parent_asin": "B01F98JLKM",
+          "rank": 194,
+          "score": 0.7906549410770637
+        },
+        {
+          "parent_asin": "B06ZYQRM5K",
+          "rank": 195,
+          "score": 0.7896480905462879
+        },
+        {
+          "parent_asin": "B007BXTL1S",
+          "rank": 196,
+          "score": 0.7891226338742761
+        },
+        {
+          "parent_asin": "B01G3P0Y74",
+          "rank": 197,
+          "score": 0.7885918730737584
+        },
+        {
+          "parent_asin": "B07MDVKT91",
+          "rank": 198,
+          "score": 0.7876645459469025
+        },
+        {
+          "parent_asin": "B07Y92SDPR",
+          "rank": 199,
+          "score": 0.7869292071841334
+        },
+        {
+          "parent_asin": "B092HMDBJM",
+          "rank": 200,
+          "score": 0.7864396836413536
+        },
+        {
+          "parent_asin": "B001B1PL06",
+          "rank": 201,
+          "score": 0.7863469085250294
+        },
+        {
+          "parent_asin": "B08PDVGVS9",
+          "rank": 202,
+          "score": 0.7859420536038464
+        },
+        {
+          "parent_asin": "B07BMMQX7S",
+          "rank": 203,
+          "score": 0.7850700547019673
+        },
+        {
+          "parent_asin": "B00VF5WRGY",
+          "rank": 204,
+          "score": 0.7848878687766212
+        },
+        {
+          "parent_asin": "B071YVQJ62",
+          "rank": 205,
+          "score": 0.7848183358139569
+        },
+        {
+          "parent_asin": "B01MXHNB5T",
+          "rank": 206,
+          "score": 0.7844098566662233
+        },
+        {
+          "parent_asin": "B07B215TYH",
+          "rank": 207,
+          "score": 0.7841896673015711
+        },
+        {
+          "parent_asin": "B07GZBTRDM",
+          "rank": 208,
+          "score": 0.7836938760027343
+        },
+        {
+          "parent_asin": "B0713S6R54",
+          "rank": 209,
+          "score": 0.7832347270245317
+        },
+        {
+          "parent_asin": "B09XTV4VY4",
+          "rank": 210,
+          "score": 0.7823541067669523
+        },
+        {
+          "parent_asin": "B08DRD9R3V",
+          "rank": 211,
+          "score": 0.7820104279514679
+        },
+        {
+          "parent_asin": "B00K72F76I",
+          "rank": 212,
+          "score": 0.7818108404352355
+        },
+        {
+          "parent_asin": "B0BKQZ26SX",
+          "rank": 213,
+          "score": 0.7812653297706202
+        },
+        {
+          "parent_asin": "B07RL92TPQ",
+          "rank": 214,
+          "score": 0.7809439518853353
+        },
+        {
+          "parent_asin": "B079JLD3QN",
+          "rank": 215,
+          "score": 0.7807755022211196
+        },
+        {
+          "parent_asin": "B08DNZ3MBV",
+          "rank": 216,
+          "score": 0.7801873642666908
+        },
+        {
+          "parent_asin": "B07RQ34JD9",
+          "rank": 217,
+          "score": 0.7794986260159813
+        },
+        {
+          "parent_asin": "B08PZ3DQJK",
+          "rank": 218,
+          "score": 0.7786631657617402
+        },
+        {
+          "parent_asin": "B08GPYGJL8",
+          "rank": 219,
+          "score": 0.7782490742033316
+        },
+        {
+          "parent_asin": "B00I3H5OYE",
+          "rank": 220,
+          "score": 0.7771595564755731
+        },
+        {
+          "parent_asin": "B00JGC61W4",
+          "rank": 221,
+          "score": 0.7767947792636374
+        },
+        {
+          "parent_asin": "B002JCBOMU",
+          "rank": 222,
+          "score": 0.7763751896502473
+        },
+        {
+          "parent_asin": "B08HSBX8PW",
+          "rank": 223,
+          "score": 0.7753622743606532
+        },
+        {
+          "parent_asin": "B00ZZMT2AC",
+          "rank": 224,
+          "score": 0.7752506496385174
+        },
+        {
+          "parent_asin": "B076JRLLHG",
+          "rank": 225,
+          "score": 0.773032724623437
+        },
+        {
+          "parent_asin": "B08CMNDQ8D",
+          "rank": 226,
+          "score": 0.7726521258735031
+        },
+        {
+          "parent_asin": "B07XC5MZ9S",
+          "rank": 227,
+          "score": 0.7726346548797861
+        },
+        {
+          "parent_asin": "B07558VY4B",
+          "rank": 228,
+          "score": 0.7725957340119411
+        },
+        {
+          "parent_asin": "B00L5FT8AM",
+          "rank": 229,
+          "score": 0.7723454147213774
+        },
+        {
+          "parent_asin": "B076JMXKDH",
+          "rank": 230,
+          "score": 0.7713542607585693
+        },
+        {
+          "parent_asin": "B07BHLZB5Z",
+          "rank": 231,
+          "score": 0.7707616498385225
+        },
+        {
+          "parent_asin": "B08J7TRRF4",
+          "rank": 232,
+          "score": 0.7704928566308138
+        },
+        {
+          "parent_asin": "B00L5YKFA0",
+          "rank": 233,
+          "score": 0.7704267727296856
+        },
+        {
+          "parent_asin": "B0B5HLH1DB",
+          "rank": 234,
+          "score": 0.7699908823775353
+        },
+        {
+          "parent_asin": "B0925MMXXY",
+          "rank": 235,
+          "score": 0.7691442002015588
+        },
+        {
+          "parent_asin": "B08L5Y98NB",
+          "rank": 236,
+          "score": 0.7688875519369476
+        },
+        {
+          "parent_asin": "B09V2GXLBJ",
+          "rank": 237,
+          "score": 0.7687858685734267
+        },
+        {
+          "parent_asin": "B08P46TVJW",
+          "rank": 238,
+          "score": 0.7682649358943936
+        },
+        {
+          "parent_asin": "B003P2VHYI",
+          "rank": 239,
+          "score": 0.7682105799059415
+        },
+        {
+          "parent_asin": "B07357B79L",
+          "rank": 240,
+          "score": 0.7677965090928268
+        },
+        {
+          "parent_asin": "B076GX2PV6",
+          "rank": 241,
+          "score": 0.7663831879581903
+        },
+        {
+          "parent_asin": "B08NB3CNNH",
+          "rank": 242,
+          "score": 0.7662400814460315
+        },
+        {
+          "parent_asin": "B08FHSVQKR",
+          "rank": 243,
+          "score": 0.7659199873689261
+        },
+        {
+          "parent_asin": "B08S3Z2Z83",
+          "rank": 244,
+          "score": 0.7657497639707883
+        },
+        {
+          "parent_asin": "B07BHR369Z",
+          "rank": 245,
+          "score": 0.7648863241435121
+        },
+        {
+          "parent_asin": "B00RSRZDSM",
+          "rank": 246,
+          "score": 0.7636030693634503
+        },
+        {
+          "parent_asin": "B08CMVHNDW",
+          "rank": 247,
+          "score": 0.7629450450673168
+        },
+        {
+          "parent_asin": "B09T782383",
+          "rank": 248,
+          "score": 0.7615011079993619
+        },
+        {
+          "parent_asin": "B08JTR7Q4V",
+          "rank": 249,
+          "score": 0.7601410942841257
+        },
+        {
+          "parent_asin": "B01H8BHP38",
+          "rank": 250,
+          "score": 0.7590699345150174
+        },
+        {
+          "parent_asin": "B07S484SXD",
+          "rank": 251,
+          "score": 0.7590075537027368
+        },
+        {
+          "parent_asin": "B07QVG2FFM",
+          "rank": 252,
+          "score": 0.758564042016804
+        },
+        {
+          "parent_asin": "B0B7D793QN",
+          "rank": 253,
+          "score": 0.7583063002414066
+        },
+        {
+          "parent_asin": "B000249WB2",
+          "rank": 254,
+          "score": 0.7578213622170886
+        },
+        {
+          "parent_asin": "B07D4B52LL",
+          "rank": 255,
+          "score": 0.7574616220448103
+        },
+        {
+          "parent_asin": "B01BU3G2N4",
+          "rank": 256,
+          "score": 0.7572403213874519
+        },
+        {
+          "parent_asin": "B072FG21S5",
+          "rank": 257,
+          "score": 0.7563245356920074
+        },
+        {
+          "parent_asin": "B01CH3AZMU",
+          "rank": 258,
+          "score": 0.756134505608419
+        },
+        {
+          "parent_asin": "B07T65XNYC",
+          "rank": 259,
+          "score": 0.7549974727442853
+        },
+        {
+          "parent_asin": "B075FWJ12S",
+          "rank": 260,
+          "score": 0.7549673325967634
+        },
+        {
+          "parent_asin": "B074V39WT8",
+          "rank": 261,
+          "score": 0.7541023908921533
+        },
+        {
+          "parent_asin": "B0020A0TZY",
+          "rank": 262,
+          "score": 0.7536639352358695
+        },
+        {
+          "parent_asin": "B00R7IAJGS",
+          "rank": 263,
+          "score": 0.7536408921488542
+        },
+        {
+          "parent_asin": "B07CQGMJQW",
+          "rank": 264,
+          "score": 0.7519253961363646
+        },
+        {
+          "parent_asin": "B01NGWFT42",
+          "rank": 265,
+          "score": 0.7517146697069403
+        },
+        {
+          "parent_asin": "B07YT6W4QZ",
+          "rank": 266,
+          "score": 0.7514910569330824
+        },
+        {
+          "parent_asin": "B07TJQG6FD",
+          "rank": 267,
+          "score": 0.7512348792985124
+        },
+        {
+          "parent_asin": "B06XS4ZR5C",
+          "rank": 268,
+          "score": 0.7510698981815382
+        },
+        {
+          "parent_asin": "B07GP1R893",
+          "rank": 269,
+          "score": 0.7504819534960108
+        },
+        {
+          "parent_asin": "B08QN2R6P9",
+          "rank": 270,
+          "score": 0.7492456352352671
+        },
+        {
+          "parent_asin": "B0861XNYMW",
+          "rank": 271,
+          "score": 0.7485074564437006
+        },
+        {
+          "parent_asin": "B0713WH89T",
+          "rank": 272,
+          "score": 0.7478997662273662
+        },
+        {
+          "parent_asin": "B08VN446J8",
+          "rank": 273,
+          "score": 0.7474055985297652
+        },
+        {
+          "parent_asin": "B01G4AVKJE",
+          "rank": 274,
+          "score": 0.7469272622225565
+        },
+        {
+          "parent_asin": "B004GHNTQU",
+          "rank": 275,
+          "score": 0.7467378915138652
+        },
+        {
+          "parent_asin": "B00MAM0N0S",
+          "rank": 276,
+          "score": 0.7465654396263195
+        },
+        {
+          "parent_asin": "B07YT6ZTYV",
+          "rank": 277,
+          "score": 0.7457417941122014
+        },
+        {
+          "parent_asin": "B07CTGKDB2",
+          "rank": 278,
+          "score": 0.7455364855441606
+        },
+        {
+          "parent_asin": "B07B5FQTWR",
+          "rank": 279,
+          "score": 0.7444892003806007
+        },
+        {
+          "parent_asin": "B08D696ZDV",
+          "rank": 280,
+          "score": 0.7443462851727553
+        },
+        {
+          "parent_asin": "B07F73161M",
+          "rank": 281,
+          "score": 0.7432183654866925
+        },
+        {
+          "parent_asin": "B01779Z6M8",
+          "rank": 282,
+          "score": 0.7428170867600101
+        },
+        {
+          "parent_asin": "B07CNMTNR2",
+          "rank": 283,
+          "score": 0.7427041911179539
+        },
+        {
+          "parent_asin": "B07B17366Y",
+          "rank": 284,
+          "score": 0.7426444425835922
+        },
+        {
+          "parent_asin": "B09TP9S88L",
+          "rank": 285,
+          "score": 0.7421738978728774
+        },
+        {
+          "parent_asin": "B000VK634G",
+          "rank": 286,
+          "score": 0.7413888089204115
+        },
+        {
+          "parent_asin": "B076BSFXD5",
+          "rank": 287,
+          "score": 0.7398321391961147
+        },
+        {
+          "parent_asin": "B082FHFS69",
+          "rank": 288,
+          "score": 0.739757159707825
+        },
+        {
+          "parent_asin": "B07CM79XSV",
+          "rank": 289,
+          "score": 0.7387541461537283
+        },
+        {
+          "parent_asin": "B07VFPS68P",
+          "rank": 290,
+          "score": 0.7380774921543187
+        },
+        {
+          "parent_asin": "B0C3CKY894",
+          "rank": 291,
+          "score": 0.7378391719027779
+        },
+        {
+          "parent_asin": "B081V3HSDG",
+          "rank": 292,
+          "score": 0.7376665593184506
+        },
+        {
+          "parent_asin": "B0897HFFVK",
+          "rank": 293,
+          "score": 0.737586704603965
+        },
+        {
+          "parent_asin": "B018YCQ91O",
+          "rank": 294,
+          "score": 0.7371227446928502
+        },
+        {
+          "parent_asin": "B005BT6C4I",
+          "rank": 295,
+          "score": 0.7370818670826192
+        },
+        {
+          "parent_asin": "B096VWSCZG",
+          "rank": 296,
+          "score": 0.7367721705142657
+        },
+        {
+          "parent_asin": "B08SQTT66C",
+          "rank": 297,
+          "score": 0.7360504850695226
+        },
+        {
+          "parent_asin": "B07SZF8HJH",
+          "rank": 298,
+          "score": 0.7351617997628687
+        },
+        {
+          "parent_asin": "B07T2K83PW",
+          "rank": 299,
+          "score": 0.7351617997628687
+        },
+        {
+          "parent_asin": "B07T5TCHCG",
+          "rank": 300,
+          "score": 0.7351617997628687
+        },
+        {
+          "parent_asin": "B08VS54XVQ",
+          "rank": 301,
+          "score": 0.7351592209179063
+        },
+        {
+          "parent_asin": "B07RT47BQX",
+          "rank": 302,
+          "score": 0.7340100728233973
+        },
+        {
+          "parent_asin": "B08K8RJTZP",
+          "rank": 303,
+          "score": 0.7337060857379537
+        },
+        {
+          "parent_asin": "B07TK8YF27",
+          "rank": 304,
+          "score": 0.7328053029665844
+        },
+        {
+          "parent_asin": "B09KP93V5B",
+          "rank": 305,
+          "score": 0.7323646735563081
+        },
+        {
+          "parent_asin": "B06VV8PL4W",
+          "rank": 306,
+          "score": 0.7316885560351231
+        },
+        {
+          "parent_asin": "B07V63R1P6",
+          "rank": 307,
+          "score": 0.7303323323813412
+        },
+        {
+          "parent_asin": "B00LNH37SG",
+          "rank": 308,
+          "score": 0.7301236003048458
+        },
+        {
+          "parent_asin": "B07QTPYJH3",
+          "rank": 309,
+          "score": 0.7267127288638137
+        },
+        {
+          "parent_asin": "B00X9UFUQW",
+          "rank": 310,
+          "score": 0.7264604289334273
+        },
+        {
+          "parent_asin": "B08M5L6FH3",
+          "rank": 311,
+          "score": 0.724913069834135
+        },
+        {
+          "parent_asin": "B07FQ3T99T",
+          "rank": 312,
+          "score": 0.7220498489753526
+        },
+        {
+          "parent_asin": "B08BLSKD2R",
+          "rank": 313,
+          "score": 0.721894481332608
+        },
+        {
+          "parent_asin": "B00VW2N23W",
+          "rank": 314,
+          "score": 0.7218049768836169
+        },
+        {
+          "parent_asin": "B07R88B2FC",
+          "rank": 315,
+          "score": 0.7210825060222488
+        },
+        {
+          "parent_asin": "B0BPCC1KBT",
+          "rank": 316,
+          "score": 0.7210753727573337
+        },
+        {
+          "parent_asin": "B07618CPXX",
+          "rank": 317,
+          "score": 0.7193071131385647
+        },
+        {
+          "parent_asin": "B094BGFS5R",
+          "rank": 318,
+          "score": 0.7190486703066561
+        },
+        {
+          "parent_asin": "B08R84SVMP",
+          "rank": 319,
+          "score": 0.7177131931110072
+        },
+        {
+          "parent_asin": "B08LY83MS1",
+          "rank": 320,
+          "score": 0.7173986649548303
+        },
+        {
+          "parent_asin": "B08WBHLYB2",
+          "rank": 321,
+          "score": 0.7172244340777673
+        },
+        {
+          "parent_asin": "B08H255XQP",
+          "rank": 322,
+          "score": 0.7168750422360815
+        },
+        {
+          "parent_asin": "B071NLVR4R",
+          "rank": 323,
+          "score": 0.716783882818022
+        },
+        {
+          "parent_asin": "B07PRSGKYT",
+          "rank": 324,
+          "score": 0.7159862101923697
+        },
+        {
+          "parent_asin": "B077J6G48C",
+          "rank": 325,
+          "score": 0.7155597340392086
+        },
+        {
+          "parent_asin": "B0BC4JT1Q6",
+          "rank": 326,
+          "score": 0.7151083616013335
+        },
+        {
+          "parent_asin": "B07RYG7KS1",
+          "rank": 327,
+          "score": 0.7148320812374538
+        },
+        {
+          "parent_asin": "B086WQCHSN",
+          "rank": 328,
+          "score": 0.7148027734189828
+        },
+        {
+          "parent_asin": "B08B3CHZX3",
+          "rank": 329,
+          "score": 0.7144202710505894
+        },
+        {
+          "parent_asin": "B07BKLH9PB",
+          "rank": 330,
+          "score": 0.714326149321993
+        },
+        {
+          "parent_asin": "B08T1ZGJKB",
+          "rank": 331,
+          "score": 0.712921896670268
+        },
+        {
+          "parent_asin": "B09BQVGMQZ",
+          "rank": 332,
+          "score": 0.7127281648048778
+        },
+        {
+          "parent_asin": "B091SQVYTW",
+          "rank": 333,
+          "score": 0.7120314194396797
+        },
+        {
+          "parent_asin": "B005UPSF20",
+          "rank": 334,
+          "score": 0.7117398335046751
+        },
+        {
+          "parent_asin": "B00ITPNA3W",
+          "rank": 335,
+          "score": 0.7112839035445413
+        },
+        {
+          "parent_asin": "B09V3GV25V",
+          "rank": 336,
+          "score": 0.7107986026284624
+        },
+        {
+          "parent_asin": "B093GFDM2G",
+          "rank": 337,
+          "score": 0.710534940875595
+        },
+        {
+          "parent_asin": "B07SJ3HBT7",
+          "rank": 338,
+          "score": 0.71018442433747
+        },
+        {
+          "parent_asin": "B08LQM8B1S",
+          "rank": 339,
+          "score": 0.7094708555100683
+        },
+        {
+          "parent_asin": "B000IM3ICW",
+          "rank": 340,
+          "score": 0.7091021824927017
+        },
+        {
+          "parent_asin": "B07D4C3VXQ",
+          "rank": 341,
+          "score": 0.7083384350876909
+        },
+        {
+          "parent_asin": "B08HRCVV5V",
+          "rank": 342,
+          "score": 0.70764984602972
+        },
+        {
+          "parent_asin": "B07HHS81NT",
+          "rank": 343,
+          "score": 0.7074191167501622
+        },
+        {
+          "parent_asin": "B07YCSM91H",
+          "rank": 344,
+          "score": 0.7064944966775114
+        },
+        {
+          "parent_asin": "B08141HFYW",
+          "rank": 345,
+          "score": 0.7059125338204737
+        },
+        {
+          "parent_asin": "B07QPTW74V",
+          "rank": 346,
+          "score": 0.7054844442256898
+        },
+        {
+          "parent_asin": "B01E8O6NX6",
+          "rank": 347,
+          "score": 0.7040580572288134
+        },
+        {
+          "parent_asin": "B09ZPK9XB6",
+          "rank": 348,
+          "score": 0.7026661643978515
+        },
+        {
+          "parent_asin": "B07S29GVK2",
+          "rank": 349,
+          "score": 0.7024953006884079
+        },
+        {
+          "parent_asin": "B098NRHGMZ",
+          "rank": 350,
+          "score": 0.7013608208604747
+        },
+        {
+          "parent_asin": "B089LRY2T7",
+          "rank": 351,
+          "score": 0.6998619533502257
+        },
+        {
+          "parent_asin": "B0748Z1DT9",
+          "rank": 352,
+          "score": 0.6988907308899722
+        },
+        {
+          "parent_asin": "B09MFN7KCJ",
+          "rank": 353,
+          "score": 0.6970046152038832
+        },
+        {
+          "parent_asin": "B0847J1T2K",
+          "rank": 354,
+          "score": 0.6967135262780759
+        },
+        {
+          "parent_asin": "B01LXTZMTP",
+          "rank": 355,
+          "score": 0.6959431081699792
+        },
+        {
+          "parent_asin": "B071X9NN1Z",
+          "rank": 356,
+          "score": 0.6954679364551469
+        },
+        {
+          "parent_asin": "B08HCFK5TY",
+          "rank": 357,
+          "score": 0.6946339306585905
+        },
+        {
+          "parent_asin": "B01IE1IKX0",
+          "rank": 358,
+          "score": 0.6934838157357204
+        },
+        {
+          "parent_asin": "B0711SPYVF",
+          "rank": 359,
+          "score": 0.6933663283465209
+        },
+        {
+          "parent_asin": "B07Q2MLX5N",
+          "rank": 360,
+          "score": 0.6930891533071324
+        },
+        {
+          "parent_asin": "B08CVGQBVG",
+          "rank": 361,
+          "score": 0.6926894343429
+        },
+        {
+          "parent_asin": "B07V46HKPQ",
+          "rank": 362,
+          "score": 0.6918308352860107
+        },
+        {
+          "parent_asin": "B001B1PNUE",
+          "rank": 363,
+          "score": 0.6908259734613934
+        },
+        {
+          "parent_asin": "B085VK9944",
+          "rank": 364,
+          "score": 0.6904612711814381
+        },
+        {
+          "parent_asin": "B0C2BJDYFK",
+          "rank": 365,
+          "score": 0.6903323528251493
+        },
+        {
+          "parent_asin": "B0BRHW1Y4Y",
+          "rank": 366,
+          "score": 0.6897164248541892
+        },
+        {
+          "parent_asin": "B09QZQKSDR",
+          "rank": 367,
+          "score": 0.6885799123757708
+        },
+        {
+          "parent_asin": "B08SQQ2QTH",
+          "rank": 368,
+          "score": 0.6882686667797392
+        },
+        {
+          "parent_asin": "B0779CHHHF",
+          "rank": 369,
+          "score": 0.6859964348208719
+        },
+        {
+          "parent_asin": "B00008NMKE",
+          "rank": 370,
+          "score": 0.6859437119072637
+        },
+        {
+          "parent_asin": "B08CH496PS",
+          "rank": 371,
+          "score": 0.6848729163217652
+        },
+        {
+          "parent_asin": "B095P8283H",
+          "rank": 372,
+          "score": 0.684720326971682
+        },
+        {
+          "parent_asin": "B08G18K2BG",
+          "rank": 373,
+          "score": 0.6839008841552291
+        },
+        {
+          "parent_asin": "B0817XCZGK",
+          "rank": 374,
+          "score": 0.6831857543829869
+        },
+        {
+          "parent_asin": "B08QD482MN",
+          "rank": 375,
+          "score": 0.6802829097981844
+        },
+        {
+          "parent_asin": "B01002MKDM",
+          "rank": 376,
+          "score": 0.6800277651197444
+        },
+        {
+          "parent_asin": "B0023ZZAXW",
+          "rank": 377,
+          "score": 0.6791757300628717
+        },
+        {
+          "parent_asin": "B079ZZ3KJS",
+          "rank": 378,
+          "score": 0.6786440014751576
+        },
+        {
+          "parent_asin": "B00SHY706I",
+          "rank": 379,
+          "score": 0.6771217405283034
+        },
+        {
+          "parent_asin": "B07RKYF3NW",
+          "rank": 380,
+          "score": 0.6759771304457853
+        },
+        {
+          "parent_asin": "B099Z6N1WJ",
+          "rank": 381,
+          "score": 0.6732421992661564
+        },
+        {
+          "parent_asin": "B07YPS57S2",
+          "rank": 382,
+          "score": 0.6731802940415987
+        },
+        {
+          "parent_asin": "B086HKJ1RN",
+          "rank": 383,
+          "score": 0.6724589887651177
+        },
+        {
+          "parent_asin": "B07JX5114N",
+          "rank": 384,
+          "score": 0.6718277842812402
+        },
+        {
+          "parent_asin": "B07CMHRS2N",
+          "rank": 385,
+          "score": 0.6711455014355323
+        },
+        {
+          "parent_asin": "B07RB765KH",
+          "rank": 386,
+          "score": 0.6702627865813873
+        },
+        {
+          "parent_asin": "B08MJ6J351",
+          "rank": 387,
+          "score": 0.6693433773319845
+        },
+        {
+          "parent_asin": "B093SQD752",
+          "rank": 388,
+          "score": 0.6687113864719565
+        },
+        {
+          "parent_asin": "B06XSLP2CV",
+          "rank": 389,
+          "score": 0.6670330466199812
+        },
+        {
+          "parent_asin": "B07F243JL1",
+          "rank": 390,
+          "score": 0.6661450855524742
+        },
+        {
+          "parent_asin": "B0757MMZ3M",
+          "rank": 391,
+          "score": 0.6646113946668937
+        },
+        {
+          "parent_asin": "B00D3HX3UQ",
+          "rank": 392,
+          "score": 0.6640504134628191
+        },
+        {
+          "parent_asin": "B08FWRY9SZ",
+          "rank": 393,
+          "score": 0.663684627691721
+        },
+        {
+          "parent_asin": "B07MDC5BHZ",
+          "rank": 394,
+          "score": 0.6626691482130318
+        },
+        {
+          "parent_asin": "B07DRQFCZB",
+          "rank": 395,
+          "score": 0.6626620962983667
+        },
+        {
+          "parent_asin": "B09Z2VTGG2",
+          "rank": 396,
+          "score": 0.6612913127837006
+        },
+        {
+          "parent_asin": "B08YR2CRZ2",
+          "rank": 397,
+          "score": 0.6605665649273296
+        },
+        {
+          "parent_asin": "B01M0HPWB3",
+          "rank": 398,
+          "score": 0.6599172407354666
+        },
+        {
+          "parent_asin": "B097PL29S6",
+          "rank": 399,
+          "score": 0.6592910461223542
+        },
+        {
+          "parent_asin": "B0826SRDSS",
+          "rank": 400,
+          "score": 0.6585093616210175
+        },
+        {
+          "parent_asin": "B08M9BMQJM",
+          "rank": 401,
+          "score": 0.6557263069427716
+        },
+        {
+          "parent_asin": "B00R7BX6JM",
+          "rank": 402,
+          "score": 0.6556337354137098
+        },
+        {
+          "parent_asin": "B09TN7FXJW",
+          "rank": 403,
+          "score": 0.655434123944121
+        },
+        {
+          "parent_asin": "B07DKWKQ25",
+          "rank": 404,
+          "score": 0.6546885106548955
+        },
+        {
+          "parent_asin": "B00C9V23CG",
+          "rank": 405,
+          "score": 0.6539658772860102
+        },
+        {
+          "parent_asin": "B082P7KLHF",
+          "rank": 406,
+          "score": 0.6536982835274715
+        },
+        {
+          "parent_asin": "B08X4DXC9L",
+          "rank": 407,
+          "score": 0.6531437582334557
+        },
+        {
+          "parent_asin": "B07RHQB44T",
+          "rank": 408,
+          "score": 0.6512774231211136
+        },
+        {
+          "parent_asin": "B07GPZ1MSS",
+          "rank": 409,
+          "score": 0.6503625226565685
+        },
+        {
+          "parent_asin": "B08CZBLWR1",
+          "rank": 410,
+          "score": 0.6501644956686716
+        },
+        {
+          "parent_asin": "B099MYNF1H",
+          "rank": 411,
+          "score": 0.6493946888477584
+        },
+        {
+          "parent_asin": "B0728BTKPB",
+          "rank": 412,
+          "score": 0.6491354649083065
+        },
+        {
+          "parent_asin": "B0038BRUG0",
+          "rank": 413,
+          "score": 0.6491241584979666
+        },
+        {
+          "parent_asin": "B01B6S9E7Y",
+          "rank": 414,
+          "score": 0.6485942280681617
+        },
+        {
+          "parent_asin": "B079MTQGPY",
+          "rank": 415,
+          "score": 0.6444094826474761
+        },
+        {
+          "parent_asin": "B00BLXMUVC",
+          "rank": 416,
+          "score": 0.6428668739018826
+        },
+        {
+          "parent_asin": "B0B4HG1H5D",
+          "rank": 417,
+          "score": 0.6414945616029961
+        },
+        {
+          "parent_asin": "B08V1BDQNX",
+          "rank": 418,
+          "score": 0.6389587451944663
+        },
+        {
+          "parent_asin": "B07YFT2TFP",
+          "rank": 419,
+          "score": 0.6388748411817505
+        },
+        {
+          "parent_asin": "B07P735MNL",
+          "rank": 420,
+          "score": 0.6386827809865987
+        },
+        {
+          "parent_asin": "B07P9BBZJG",
+          "rank": 421,
+          "score": 0.6386827809865987
+        },
+        {
+          "parent_asin": "B08DJZPK9Q",
+          "rank": 422,
+          "score": 0.6378671294379463
+        },
+        {
+          "parent_asin": "B07BNG89PJ",
+          "rank": 423,
+          "score": 0.6366876650056765
+        },
+        {
+          "parent_asin": "B07QDWN6WK",
+          "rank": 424,
+          "score": 0.6353527084677889
+        },
+        {
+          "parent_asin": "B09B49PSZL",
+          "rank": 425,
+          "score": 0.633630978175323
+        },
+        {
+          "parent_asin": "B08LTHRTH6",
+          "rank": 426,
+          "score": 0.6330401450382472
+        },
+        {
+          "parent_asin": "B08XX2Q72X",
+          "rank": 427,
+          "score": 0.6301368816332489
+        },
+        {
+          "parent_asin": "B077S9PC3F",
+          "rank": 428,
+          "score": 0.6286884664996567
+        },
+        {
+          "parent_asin": "B08GG2F647",
+          "rank": 429,
+          "score": 0.6269345047635821
+        },
+        {
+          "parent_asin": "B01CF57RM6",
+          "rank": 430,
+          "score": 0.6260414468367879
+        },
+        {
+          "parent_asin": "B09BXDQCGJ",
+          "rank": 431,
+          "score": 0.6250540903670178
+        },
+        {
+          "parent_asin": "B07G9RJFDM",
+          "rank": 432,
+          "score": 0.6247948328146977
+        },
+        {
+          "parent_asin": "B07SST9G8B",
+          "rank": 433,
+          "score": 0.6227655340423899
+        },
+        {
+          "parent_asin": "B08MTRWKGB",
+          "rank": 434,
+          "score": 0.620772611973782
+        },
+        {
+          "parent_asin": "B0B4N41WF7",
+          "rank": 435,
+          "score": 0.6200580951432338
+        },
+        {
+          "parent_asin": "B01M5KP184",
+          "rank": 436,
+          "score": 0.6172993465040935
+        },
+        {
+          "parent_asin": "B07D9H6DM9",
+          "rank": 437,
+          "score": 0.6161151036915511
+        },
+        {
+          "parent_asin": "B087JHP751",
+          "rank": 438,
+          "score": 0.6158837921114502
+        },
+        {
+          "parent_asin": "B00I53KUSG",
+          "rank": 439,
+          "score": 0.6119704060434162
+        },
+        {
+          "parent_asin": "B089CK4JLW",
+          "rank": 440,
+          "score": 0.6114823654365478
+        },
+        {
+          "parent_asin": "B09C1D1KNW",
+          "rank": 441,
+          "score": 0.6113371834097711
+        },
+        {
+          "parent_asin": "B08FX7SHFG",
+          "rank": 442,
+          "score": 0.6097299292980121
+        },
+        {
+          "parent_asin": "B0716Y2SNK",
+          "rank": 443,
+          "score": 0.6056855352736908
+        },
+        {
+          "parent_asin": "B071P9XR1H",
+          "rank": 444,
+          "score": 0.6055263169847561
+        },
+        {
+          "parent_asin": "B07V9F7R27",
+          "rank": 445,
+          "score": 0.6032846689135747
+        },
+        {
+          "parent_asin": "B07J449RJT",
+          "rank": 446,
+          "score": 0.6021058362825948
+        },
+        {
+          "parent_asin": "B07VLC2ZYX",
+          "rank": 447,
+          "score": 0.6020965381974335
+        },
+        {
+          "parent_asin": "B099J5YWNQ",
+          "rank": 448,
+          "score": 0.6011069802536005
+        },
+        {
+          "parent_asin": "B097M8S8QY",
+          "rank": 449,
+          "score": 0.6006690086555864
+        },
+        {
+          "parent_asin": "B07B4QNX6N",
+          "rank": 450,
+          "score": 0.5993954490484324
+        },
+        {
+          "parent_asin": "B0784R28NL",
+          "rank": 451,
+          "score": 0.598809913931435
+        },
+        {
+          "parent_asin": "B07Z9NPB25",
+          "rank": 452,
+          "score": 0.5985272645066463
+        },
+        {
+          "parent_asin": "B01N6PYLCK",
+          "rank": 453,
+          "score": 0.5984768115277148
+        },
+        {
+          "parent_asin": "B06WD12HTH",
+          "rank": 454,
+          "score": 0.5949555229130676
+        },
+        {
+          "parent_asin": "B073Q3KS6Y",
+          "rank": 455,
+          "score": 0.5946824685737415
+        },
+        {
+          "parent_asin": "B06W53G5BQ",
+          "rank": 456,
+          "score": 0.5942783860160226
+        },
+        {
+          "parent_asin": "B06XYG9CXC",
+          "rank": 457,
+          "score": 0.592011330805854
+        },
+        {
+          "parent_asin": "B01MXLBXCO",
+          "rank": 458,
+          "score": 0.5892474243896267
+        },
+        {
+          "parent_asin": "B07PDHW7ZY",
+          "rank": 459,
+          "score": 0.5889549747592413
+        },
+        {
+          "parent_asin": "B083SK228W",
+          "rank": 460,
+          "score": 0.5885769961262178
+        },
+        {
+          "parent_asin": "B0B4PGLTXT",
+          "rank": 461,
+          "score": 0.5874216299080376
+        },
+        {
+          "parent_asin": "B07Q6NWNJY",
+          "rank": 462,
+          "score": 0.585825927709054
+        },
+        {
+          "parent_asin": "B072MYQBND",
+          "rank": 463,
+          "score": 0.5828060010140076
+        },
+        {
+          "parent_asin": "B076BSL2M3",
+          "rank": 464,
+          "score": 0.5827337132713023
+        },
+        {
+          "parent_asin": "B07V4596DZ",
+          "rank": 465,
+          "score": 0.579486465217226
+        },
+        {
+          "parent_asin": "B08HS712ZB",
+          "rank": 466,
+          "score": 0.5789816542144401
+        },
+        {
+          "parent_asin": "B07PV6RXJ2",
+          "rank": 467,
+          "score": 0.5785523697280497
+        },
+        {
+          "parent_asin": "B06X3WY6DD",
+          "rank": 468,
+          "score": 0.5759698969175692
+        },
+        {
+          "parent_asin": "B01A08L98S",
+          "rank": 469,
+          "score": 0.5754644618657995
+        },
+        {
+          "parent_asin": "B0085LZMZE",
+          "rank": 470,
+          "score": 0.5735239998195674
+        },
+        {
+          "parent_asin": "B00OZ8RCAO",
+          "rank": 471,
+          "score": 0.5732411211383341
+        },
+        {
+          "parent_asin": "B07PZKKP8Q",
+          "rank": 472,
+          "score": 0.5731003668395981
+        },
+        {
+          "parent_asin": "B0B2P1QV35",
+          "rank": 473,
+          "score": 0.5726085077169532
+        },
+        {
+          "parent_asin": "B08BZ4T254",
+          "rank": 474,
+          "score": 0.5725455041731005
+        },
+        {
+          "parent_asin": "B07R4HLCSZ",
+          "rank": 475,
+          "score": 0.5724394398529897
+        },
+        {
+          "parent_asin": "B00280M5YY",
+          "rank": 476,
+          "score": 0.5704169977236243
+        },
+        {
+          "parent_asin": "B08BNNM8WH",
+          "rank": 477,
+          "score": 0.5698327714836693
+        },
+        {
+          "parent_asin": "B01N81ADZF",
+          "rank": 478,
+          "score": 0.5692967979260376
+        },
+        {
+          "parent_asin": "B08ML4JHMV",
+          "rank": 479,
+          "score": 0.5653318905798141
+        },
+        {
+          "parent_asin": "B07VKYXRJT",
+          "rank": 480,
+          "score": 0.562701385967675
+        },
+        {
+          "parent_asin": "B01BH6XY58",
+          "rank": 481,
+          "score": 0.5620420341472787
+        },
+        {
+          "parent_asin": "B0179RARW2",
+          "rank": 482,
+          "score": 0.5610036676619682
+        },
+        {
+          "parent_asin": "B005E9GL7I",
+          "rank": 483,
+          "score": 0.560825807709219
+        },
+        {
+          "parent_asin": "B00OXUM0CE",
+          "rank": 484,
+          "score": 0.5602333757171867
+        },
+        {
+          "parent_asin": "B015A6LKMU",
+          "rank": 485,
+          "score": 0.5599813529598934
+        },
+        {
+          "parent_asin": "B076MMW31V",
+          "rank": 486,
+          "score": 0.558760155464484
+        },
+        {
+          "parent_asin": "B09SVWTQ7F",
+          "rank": 487,
+          "score": 0.5579475900607869
+        },
+        {
+          "parent_asin": "B07QDWKTK3",
+          "rank": 488,
+          "score": 0.5567725693326178
+        },
+        {
+          "parent_asin": "B07P9BYL6V",
+          "rank": 489,
+          "score": 0.5557673728551928
+        },
+        {
+          "parent_asin": "B075V115P6",
+          "rank": 490,
+          "score": 0.5549215034616128
+        },
+        {
+          "parent_asin": "B08BZ4J51S",
+          "rank": 491,
+          "score": 0.5534184656505156
+        },
+        {
+          "parent_asin": "B07MGHMXR3",
+          "rank": 492,
+          "score": 0.5523661645599495
+        },
+        {
+          "parent_asin": "B00HCGHX5U",
+          "rank": 493,
+          "score": 0.5511792902582228
+        },
+        {
+          "parent_asin": "B0915RYS82",
+          "rank": 494,
+          "score": 0.5502343980439406
+        },
+        {
+          "parent_asin": "B07Z3M2HR8",
+          "rank": 495,
+          "score": 0.5478883999407071
+        },
+        {
+          "parent_asin": "B07F79CVQK",
+          "rank": 496,
+          "score": 0.5472816020868105
+        },
+        {
+          "parent_asin": "B076BT3VZ6",
+          "rank": 497,
+          "score": 0.5458748739761239
+        },
+        {
+          "parent_asin": "B0B873YMZ9",
+          "rank": 498,
+          "score": 0.5456009476201563
+        },
+        {
+          "parent_asin": "B07P8CQQZN",
+          "rank": 499,
+          "score": 0.5414731252993181
+        },
+        {
+          "parent_asin": "B074Q3RDKR",
+          "rank": 500,
+          "score": 0.5391998199173136
+        }
+      ]
+    }
+  ]
+}

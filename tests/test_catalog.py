@@ -124,10 +124,13 @@ class CatalogTest(unittest.TestCase):
         )
         self.assertEqual(digest_after, digest_before)
 
-    def test_manifest_pins_python_and_has_no_runtime_dependencies(self) -> None:
+    def test_manifest_pins_python_and_scikit_learn_dependency(self) -> None:
         manifest = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))
         self.assertEqual(manifest["project"]["requires-python"], ">=3.12,<3.13")
-        self.assertEqual(manifest["project"].get("dependencies", []), [])
+        self.assertEqual(
+            manifest["project"].get("dependencies", []),
+            ["scikit-learn>=1.5,<2"],
+        )
 
 
 if __name__ == "__main__":

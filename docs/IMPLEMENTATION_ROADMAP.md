@@ -215,6 +215,8 @@ Paper and automated traces for a bare-value reply, no-preference reply, override
 
 ## M3 — Baseline catalog representations and retrieval routes
 
+- Status: `Complete — 2026-09-27`
+
 ### Outcome
 
 Fielded lexical, facet, and single-vector dense routes can each retrieve equal-depth candidate lists with route evidence from a unified current-intent query.
@@ -249,6 +251,23 @@ Compare route Recall@K, unique target contribution, overlap, latency, and failur
 - Every route has focused correctness tests.
 - Route-level comparison evidence exists.
 - Deferred retrieval families remain deferred or have a named evidence-backed trigger.
+
+### Completion evidence
+
+- `TASK-007` through `TASK-018` are verified, including the experiment utilities
+  and the publication-blocking extractor repair.
+- The complete repository suite passes 70 tests.
+- At tuning depth 100, BM25 recall was 0.5125, facet recall was 0.4125, and raw
+  TF-IDF recall was 0.35; raw TF-IDF added only two unique targets, while facet
+  added fourteen.
+- The vectorization diagnostic measured raw TF-IDF recall at 0.35, SVD-256 at
+  0.2375, and SVD-64 at 0.1875.
+- The user selected depth 100 and the provisional BM25, facet, and SVD-256 route
+  set. Raw TF-IDF and all diagnostic code/evidence remain preserved.
+- Miss inspection concluded that many first-turn failures are genuinely
+  ambiguous because many products share the available specifications.
+- The user explicitly deferred the first-turn holdout and permanent dense-route
+  decision until dialogue integration provides stronger later-turn queries.
 
 ## M4 — Candidate fusion and constraint-aware selection
 

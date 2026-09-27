@@ -2,4 +2,4 @@
 name = "techjam-conversational-search"
 version = "0.0.0"
 requires-python = ">=3.12,<3.13"
-dependencies = []
+dependencies = ["scikit-learn>=1.5,<2"]
