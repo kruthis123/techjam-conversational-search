@@ -1,17 +1,33 @@
 # TechJam Conversational E-Commerce Search Challenge
 
-Build an AI shopping agent that asks useful follow-up questions and recommends the customer's hidden target product within at most 10 turns.
+This repository uses an unfinished hackathon project as a learning environment for building a conversational
+shopping agent. The goal is to study how retrieval, candidate fusion, constraint handling, ranking, and dialogue
+choices affect whether the customer's hidden target product appears in the top 10 recommendations within 10 turns.
 
-## Learning-First Rebuild
+It is a learning project rather than a finished shopping agent. I am rebuilding the solution in small,
+measurable stages, manually running controlled experiments, and keeping or changing a strategy based on the
+evidence.
 
-This branch includes a Codex harness that keeps learning, user-authored architecture, implementation, and verification in separate phases. Start with:
+## Current Status
 
-1. `docs/PROJECT_STATE.md` for the active phase.
-2. `docs/PROBLEM_MAP.md` for the small learning sequence.
-3. `docs/WORKFLOW.md` for copy-ready Codex prompts.
-4. `docs/learning/LC-00-evaluation-contract.md` for the first exercise.
+The original hackathon submission was not completed. In the current rebuild, the learning and architecture
+phases are complete, and implementation has progressed through catalog representation, conversational intent
+state, retrieval baselines, candidate fusion, and eligibility checks.
 
-Codex automatically reads `AGENTS.md`. Project-scoped custom agents live in `.codex/agents/` and load when the repository is trusted and a new Codex task starts.
+## AI Use Declaration
+
+I define the learning goals, study the alternatives, design the architecture, and decide which experiments to
+run. After I have documented a design and broken it into a small implementation task, I use Codex to
+write the implementation code for that design. I review the implementation, run and inspect the experiments
+myself, interpret failures, and decide whether to keep, change, or remove each strategy.
+
+Through this project I am learning how to separate retrieval coverage from ranking quality; represent changing
+user intent and hard constraints; compare lexical, facet, and dense retrieval fairly; prevent label leakage;
+design tuning and holdout experiments; and trace where a target product is lost in a recommendation pipeline.
+
+
+
+------------------------------------------------ Original README ------------------------------------------------
 
 ## What You Receive
 
@@ -22,7 +38,7 @@ Codex automatically reads `AGENTS.md`. Project-scoped custom agents live in `.co
 
 The organizer keeps 800 additional sessions private for final evaluation.
 
-## Task
+## Problem Being Studied
 
 For each session, your agent receives an anonymized preference profile and a short customer message. Raw user IDs, review text, timestamps, and purchase history are never disclosed. On every turn the agent may:
 
