@@ -271,6 +271,8 @@ Compare route Recall@K, unique target contribution, overlap, latency, and failur
 
 ## M4 — Candidate fusion and constraint-aware selection
 
+- Status: `Complete — 2026-10-20`
+
 ### Outcome
 
 Route outputs are deduplicated and fused through RRF, the candidate budget is applied, and retained candidates are classified as confirmed, provisional, or ineligible without treating missing evidence as contradiction.
@@ -305,6 +307,23 @@ Compare route-level target presence, full union, post-RRF order, and several cut
 - Confirmed contradictions never survive.
 - Unknown and inferred evidence remain provisional.
 - Every exclusion is traceable.
+
+### Completion evidence
+
+- `TASK-019` through `TASK-027` are verified; the complete deterministic suite
+  passes 113 tests.
+- The user ran the fixed 160-session tuning comparison. Full-union target recall
+  was `0.60625`; cutoff `300` preserved that recall with zero targets lost,
+  zero false exclusions, and zero contradiction leakage.
+- All smaller tested cutoffs lost targets relative to the union. The user
+  selected `300` provisionally and explicitly deferred reconsideration until
+  dialogue integration provides stronger later-turn queries.
+- Eligibility excluded no candidates in this first-turn run, so contradiction
+  filtering remains supported by focused tests rather than real-session
+  exclusion evidence.
+- The protected 40-session holdout was not evaluated.
+- Reproducibility evidence and per-session traces are retained in
+  `tmp/m4-fusion-eligibility-tuning.json`.
 
 ## M5 — Ranking baseline
 

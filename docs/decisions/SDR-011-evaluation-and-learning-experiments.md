@@ -131,6 +131,29 @@ Use paired, one-factor comparisons and a protected holdout. Promote a change onl
 
 The exact tuning/holdout sizes and any future synthetic-set construction remain experiment-design decisions. The evaluation governance, evidence layers, and reproducibility requirements are otherwise selected.
 
+## M4 dataset-specific refinement
+
+Approved by the user on `2026-10-14` for the fixed 200-session public set:
+
+- All 200 sessions have distinct target products, so exact-target product
+  grouping cannot create meaningful multi-session groups. M4 may retain the
+  existing deterministic scenario-stratified 80/20 membership to preserve
+  continuity with M3.
+- Before M4 tuning, materialize the tuning and holdout records into separate
+  files. Ordinary M4 tuning code receives only the tuning file and a split
+  manifest; it must not load or repartition the complete public set.
+- Predeclare the M4 cutoff rule before viewing results: a cutoff qualifies only
+  when it has zero false exclusions, zero contradiction leakage, and zero
+  target loss relative to the full route union. Select the smallest qualifying
+  cutoff. If none qualifies, defer the cutoff and investigate rather than
+  weakening the rule after seeing results.
+- The experiment record must include input and split hashes, split membership,
+  deterministic split statement, exact command, environment versions, fixed
+  retrieval/fusion configuration, per-session evidence, and aggregates.
+
+This is a narrow M4 refinement, not a general replacement for grouped splitting
+when future datasets contain repeated products or reusable intent groups.
+
 ## Connections to the rest of the agent
 
 - Information required from upstream capabilities: per-stage evidence, fixed inputs, configurations, traces, outputs, and failure categories from `SD-01` through `SD-10`.

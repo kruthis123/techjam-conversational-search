@@ -2,18 +2,18 @@
 
 This file is the phase gate for Codex and the shared progress index.
 
-- Phase: `VERIFYING`
+- Phase: `IMPLEMENTING`
 - Current learning card: `None` (LC-00 through LC-14 complete)
 - Architecture status: `SYNTHESIZED` — architecture critique complete; blocking clarifications resolved
 - Active system-design area: `SD-12` — Synthesized; critique resolutions recorded
 - Active design record: `SDR-012` — Synthesized
-- Active implementation ADRs: `ADR-007`, `ADR-009` — Accepted under M3 authorization
-- Active implementation task: `None` — M3 complete
-- Last verified implementation task: `TASK-018`
+- Active implementation ADRs: `ADR-009`, `ADR-010`, `ADR-011`, `ADR-012`, `ADR-013`, `ADR-014` — Accepted
+- Active implementation task: `None` — M4 complete
+- Last verified implementation task: `TASK-027`
 - Implementation roadmap: `Approved` by the user on `2026-09-17`
-- Active implementation milestone: `M3` — Complete
-- Next planning item: `Await user instruction before preparing M4 fusion and eligibility work`
-- Latest project update: `M3 completed with provisional BM25/facet/SVD-256 routes, first-turn holdout deferred until dialogue integration, and the complete repository suite passing 70/70 tests; changes are ready to publish (2026-09-27)`
+- Active implementation milestone: `M4` — Complete
+- Next planning item: `Await the user's request to prepare M5; revisit cutoff 300 after dialogue integration`
+- Latest project update: `The user selected cutoff 300 provisionally from the completed 160-session M4 tuning experiment: it preserved full-union recall 0.60625 with zero target loss, false exclusions, or contradiction leakage; smaller cutoffs lost targets, eligibility excluded no candidates, the holdout remained untouched, and cutoff 300 must be revisited after dialogue integration (2026-10-20)`
 
 ## Learning progress
 
